@@ -27,8 +27,6 @@ GEM
 
 PLATFORMS
   ruby
-  universal-darwin-21
-  unknown
 
 DEPENDENCIES
   erubis
@@ -40,4 +38,4 @@ RUBY VERSION
    ruby 2.7.2p137
 
 BUNDLED WITH
-   2.3.21
+   2.1.4
